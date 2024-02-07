@@ -19,7 +19,7 @@ def main():
         f.display_result(score, correct_ans, ques_limit)
         
     else:
-        print("Okay, may be next time.")
+        print("Okay, may be next time. See you again.")
 
 if __name__ == "__main__":
     main()
