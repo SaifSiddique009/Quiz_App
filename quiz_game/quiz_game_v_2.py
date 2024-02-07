@@ -3,9 +3,9 @@ import function as f
 # Main function
 def main():
     # questions contains a list of dictionaries of all questions from questions.csv
-    questions = f.read_csv(r'D:\Coding_Vs_Code\Mini_Projects\quiz_game\q_file.csv') 
+    questions = f.read_csv('questions.csv') 
     # answers contains a list of dictionaries of all answers from answers.csv
-    answers = f.read_csv(r'D:\Coding_Vs_Code\Mini_Projects\quiz_game\a_file.csv') 
+    answers = f.read_csv('answers.csv') 
 
     # Ask player if they want to play or not
     if f.start_game():
