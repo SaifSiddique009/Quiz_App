@@ -1,4 +1,4 @@
-**Project Overview 1: Quiz Game App in Python**
+**Quiz Game App in Python**
 
 This project is a Python-based Quiz Game application. The application is designed to engage users in a fun and interactive quiz, sourced from a CSV file. The user's responses are validated against the correct answers stored in a separate CSV file, and scores are awarded based on their performance.
 
